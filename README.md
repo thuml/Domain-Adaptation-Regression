@@ -30,11 +30,7 @@ Datalists are in the corresponding folder.
 
 ## Training on one dataset:
 
-You can use the following commands to the tasks:
-
-python -u train.py --gpu_id n --src src --tgt tgt
-
-n is the gpu id you use, src and tgt can be chosen as in "dataset_list.txt".
+You can reproduce the results by runing rsd.sh in each folder.
 
 ## Citation:
 
