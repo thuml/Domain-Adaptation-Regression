@@ -10,8 +10,15 @@
 * PIL
 
 ## Dataset:
+dSprites can be downloaded here:
+"color.tgz", "https://cloud.tsinghua.edu.cn/f/9ce9f2abc61f49ed995a/?dl=1",
+"noisy.tgz", "https://cloud.tsinghua.edu.cn/f/674435c8cb914ca0ad10/?dl=1",
+"scream.tgz", "https://cloud.tsinghua.edu.cn/f/0613675916ac4c3bb6bd/?dl=1").
 
-You need to modify the path of the image in every ".txt" in "./data".
+MPI3D can be downloaded here:
+"real.tgz", "https://cloud.tsinghua.edu.cn/f/04c1318555fc4283862b/?dl=1"),
+"realistic.tgz", "https://cloud.tsinghua.edu.cn/f/2c0f7dacc73148cea593/?dl=1"),
+"toy.tgz", "https://cloud.tsinghua.edu.cn/f/6327912a50374e20af95/?dl=1").
 
 ## Training on one dataset:
 
