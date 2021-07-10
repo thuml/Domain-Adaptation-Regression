@@ -20,7 +20,7 @@ dSprites can be downloaded here:
 
 MPI3D can be downloaded here:
 
-"real.tgz", "https://cloud.tsinghua.edu.cn/f/04c1318555fc4283862b/?dl=1"),
+"real.tgz", "https://cloud.tsinghua.edu.cn/f/04c1318555fc4283862b/?dl=1",
 
 "realistic.tgz", "https://cloud.tsinghua.edu.cn/f/2c0f7dacc73148cea593/?dl=1",
 
