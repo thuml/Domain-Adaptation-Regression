@@ -175,7 +175,7 @@ iter_source = iter(dset_loaders["train"])
 iter_target = iter(dset_loaders["val"])
 for param_group in optimizer.param_groups:
     param_lr.append(param_group["lr"])
-test_interval = 5000
+test_interval = 500
 num_iter = 20002
 print(args)
 for iter_num in range(1, num_iter + 1):
