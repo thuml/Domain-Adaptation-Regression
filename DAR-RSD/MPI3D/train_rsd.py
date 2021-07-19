@@ -52,13 +52,13 @@ data_transforms = {
 }
 # set dataset
 batch_size = {"train": 36, "val": 36, "test": 4}
-rc="/data/IMDB_WIKI/MPI3D/realistic.txt"
-rl="/data/IMDB_WIKI/MPI3D/real.txt"
-t="/data/IMDB_WIKI/MPI3D/toy.txt"
+rc="realistic.txt"
+rl="real.txt"
+t="toy.txt"
 
-rc_t="/data/IMDB_WIKI/MPI3D/realistic_test.txt"
-rl_t="/data/IMDB_WIKI/MPI3D/real_test.txt"
-t_t="/data/IMDB_WIKI/MPI3D/toy_test.txt"
+rc_t="realistic_test.txt"
+rl_t="real_test.txt"
+t_t="toy_test.txt"
 
 
 
@@ -177,7 +177,7 @@ iter_target = iter(dset_loaders["val"])
 
 for param_group in optimizer.param_groups:
     param_lr.append(param_group["lr"])
-test_interval = 5000
+test_interval = 500
 num_iter = 10002
 for iter_num in range(1, num_iter + 1):
     Model_R.train(True)
