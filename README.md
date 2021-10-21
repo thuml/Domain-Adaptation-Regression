@@ -15,19 +15,15 @@ Code release for Representation Subspace Distance for Domain Adaptation Regressi
 ## Dataset:
 dSprites can be downloaded here:
 
-"color.tgz", "https://cloud.tsinghua.edu.cn/f/9ce9f2abc61f49ed995a/?dl=1",
+"color.tgz", "https://cloud.tsinghua.edu.cn/f/649277b5d5de4c0f8fa2/?dl=1,
 
-"noisy.tgz", "https://cloud.tsinghua.edu.cn/f/674435c8cb914ca0ad10/?dl=1",
+"noisy.tgz", "https://cloud.tsinghua.edu.cn/f/35cc1489c7b34ee6a449/?dl=1",
 
-"scream.tgz", "https://cloud.tsinghua.edu.cn/f/0613675916ac4c3bb6bd/?dl=1".
+"scream.tgz", "https://cloud.tsinghua.edu.cn/f/583ccf6a795448ec9edd/?dl=1".
 
 MPI3D can be downloaded here:
 
-"real.tgz", "https://cloud.tsinghua.edu.cn/f/04c1318555fc4283862b/?dl=1",
-
-"realistic.tgz", "https://cloud.tsinghua.edu.cn/f/2c0f7dacc73148cea593/?dl=1",
-
-"toy.tgz", "https://cloud.tsinghua.edu.cn/f/6327912a50374e20af95/?dl=1".
+https://github.com/rr-learning/disentanglement_dataset
 
 Datalists are in the corresponding folder.
 
